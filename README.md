@@ -8,7 +8,7 @@
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" /> </p>
 	<h2>  <P align="center">It's about me :  </P> </h2>
 
-  <p align="center"> - 🔭 I’m currently studing in **Herald college**
+  <p align="center"> - 🔭 I’m currently studing in **Herald college/wolverhamptom**
 
 <p align="center"> - 🌱 I’m currently learning **python program**
 
@@ -16,12 +16,12 @@
 
 <p align="center">- 🤝 I’m looking for help with **Expert programmer**
 
-<p align="center">- 📫 How to reach me **sandeshgautam155@gmail.com**!
+<p align="center">- 📫 How to reach me
 
-<p align="center">- ⚡ Fun fact **I'm a introvert**
+<p align="center">- ⚡ Fun fact **I'm a extrovert**
 	
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshg7" alt="umeshg7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sabinc4" alt="Sabinc4" /></a> </p>
 
  <div align="center">
   
